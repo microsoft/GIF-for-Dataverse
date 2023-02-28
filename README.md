@@ -5,6 +5,9 @@ Microsoft Dataverse上にテンプレートを展開すると、モデル駆動�
 
 ![image](https://user-images.githubusercontent.com/123050871/214772063-25f861a9-f66a-454f-b0b9-c6e06bb4dd1e.png)
 
+政府相互運用性フレームワーク（GIF）｜デジタル庁
+https://www.digital.go.jp/policies/data_strategy_government_interoperability_framework/
+
 補足
 |       Microsoft Power Platform              　　　　　| Description                                              |
 |------------------------------------------|----------------------------------------------------------|
