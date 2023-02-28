@@ -53,16 +53,16 @@ Power Apps ソリューションファイルには次の内容が含まれてい
  - Q.Dataverse版を評価版にて利用することができますか？
     - A.Power Apps及びPower Automateは、双方とも30日の無償評価版があります。評価版にてご利用、機能の確認を行う事が可能です。
 
+## 免責事項
+本テンプレートはフレームワークを提供するものであり、恒久的なアプリケーション使用を意図したものではありません。
+日本マイクロソフトはそのような目的で本テンプレートおよび関連サービスを使用するライセンスや権利を本テンプレート利用組織に付与していません。 
+本テンプレートおよび関連サービスは、各企業のニーズを全て含めるように設計されたものではなく、そのような用途で使用されるものではありません。
+実際の利用や必要な追加のカスタマイズは別途導入支援パートナーに確認・依頼してください。 本テンプレートおよび関連サービスのいかなる使用においても、利用者がすべてリスクと責任を負うものとします。
+また、実装した本テンプレートおよび関連マイクロソフト サービスの使用に関して、適切な警告や情報をエンドユーザーに提供することについても、利用者が責任を負うものとします。 
+本テンプレートは、日本国内での使用のみを目的とし、欠陥などがある可能性を含んだままの状態で提供されており、いかなる種類の保証も適用されません。
+
 ## Contributing
-
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
-
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
-
+本プロジェクトは政府相互運用性フレームワーク(GIF)に依存しているため、GIFに変更が生じない限り原則アップデートはいたしません。
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
