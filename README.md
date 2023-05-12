@@ -22,7 +22,7 @@ https://www.digital.go.jp/policies/data_strategy_government_interoperability_fra
 
 | File/folder                     　　　　　| Description                                              |
 |------------------------------------------|----------------------------------------------------------|
-| `GovernmentCommonCDMJapan_1_0_0_0.zip`   　　　　　|Power Apps Unmanaged Solution File                        |
+| `GovernmentCommonCDMJapan_1_0_0_1.zip`   　　　　　|Power Apps Unmanaged Solution File                        |
 | `ドキュメント.zip`                              | 導入手順書、テーブル一覧・テーブル定義書、管理者ガイド等|
 | `README.md`                              | This README file.                                        |
 | `LICENSE`                                | The license for the sample.                              |
